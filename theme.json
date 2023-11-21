@@ -1,0 +1,6 @@
+{
+	"$schema": "./theme-schema.json",
+	"version": 2,
+	"description": "A dynamic theme for WordPress.",
+	"title": "Super Theme"
+}
